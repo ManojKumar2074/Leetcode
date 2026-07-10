@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -46,4 +47,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManojKumar2074/Leetcode/tree/master/0002-add-two-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojKumar2074/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
