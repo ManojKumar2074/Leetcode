@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -51,4 +52,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
