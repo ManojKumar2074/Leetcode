@@ -33,6 +33,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManojKumar2074/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKumar2074/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Array
 |  |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
