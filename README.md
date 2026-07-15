@@ -41,11 +41,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
