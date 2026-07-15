@@ -33,6 +33,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManojKumar2074/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKumar2074/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/ManojKumar2074/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Array
@@ -71,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/ManojKumar2074/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
