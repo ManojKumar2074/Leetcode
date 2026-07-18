@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ManojKumar2074/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ManojKumar2074/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKumar2074/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ManojKumar2074/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ManojKumar2074/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ManojKumar2074/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
