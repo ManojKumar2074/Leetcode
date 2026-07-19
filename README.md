@@ -50,6 +50,7 @@
 | [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManojKumar2074/Leetcode/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManojKumar2074/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManojKumar2074/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
