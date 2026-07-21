@@ -48,6 +48,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
