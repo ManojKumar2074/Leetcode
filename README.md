@@ -24,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManojKumar2074/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManojKumar2074/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ManojKumar2074/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManojKumar2074/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManojKumar2074/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManojKumar2074/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -81,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManojKumar2074/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0205-isomorphic-strings](https://github.com/ManojKumar2074/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ManojKumar2074/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ManojKumar2074/Leetcode/tree/master/0383-ransom-note) |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ManojKumar2074/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
