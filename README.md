@@ -120,4 +120,5 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ManojKumar2074/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ManojKumar2074/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
