@@ -121,6 +121,7 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ManojKumar2074/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/ManojKumar2074/Leetcode/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/ManojKumar2074/Leetcode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ManojKumar2074/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ManojKumar2074/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/ManojKumar2074/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
