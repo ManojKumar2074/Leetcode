@@ -49,6 +49,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar2074/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar2074/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ManojKumar2074/Leetcode/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/ManojKumar2074/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManojKumar2074/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/ManojKumar2074/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManojKumar2074/Leetcode/tree/master/1331-rank-transform-of-an-array) |
